@@ -1,0 +1,56 @@
+[
+    {
+        "id": "001",
+        "image": "https://i.ibb.co/92C2sWh/1.png",
+        "title": "COVID-19 Testing",
+        "description": "HealthCare offers COVID-19 testing seven days a week via walk-in at our urgent care clinics."
+    },
+    {
+        "id": "002",
+        "image": "https://i.ibb.co/NTG20z4/2.jpg",
+        "title": "Urgent Care",
+        "description": "Our urgent care clinics are able to treat injuries or illnesses requiring immediate care"
+    },
+    {
+        "id": "003",
+        "image": "https://i.ibb.co/7G9BYz5/3.jpg",
+        "title": "Direct Primary Care",
+        "description": "DPC offered a modern healthcare model that makes managing your healthcare easier"
+    },
+    {
+        "id": "004",
+        "image": "https://i.ibb.co/WP812qY/4.png",
+        "title": "Digital X-Rays",
+        "description": "All of our clinics are outfitted with state-of-the-art digital X-ray services "
+    },
+    {
+        "id": "005",
+        "image": "https://i.ibb.co/hVR7tTw/5.jpg",
+        "title": "Insurance",
+        "description": "We want the billing process to be easy and convenient.We accept most major insurance plans."
+    },
+    {
+        "id": "006",
+        "image": "https://i.ibb.co/b7RPBMQ/6.jpg",
+        "title": "Clinical Departments",
+        "description": "Since hospitals offer a range of services to patients, it consists of various departments"
+    },
+    {
+        "id": "007",
+        "image": "https://i.ibb.co/1Jkv2P3/7.jpg",
+        "title": "Advanced Laproscopic Surgery",
+        "description": "Most Favourable Outcome in Advanced Laroscopic Sergery by our Expert Sergeon."
+    },
+    {
+        "id": "008",
+        "image": "https://i.ibb.co/YpvhtyR/8.jpg",
+        "title": "APPOINTMENTS",
+        "description": "Online Appointment, Appointment Request, Teleconsultation, Appointment by Phone"
+    },
+    {
+        "id": "009",
+        "image": "https://i.ibb.co/X8fGb7d/9.png",
+        "title": "24/7 SERVICES",
+        "description": "Emergency, Ambulance Service, Blood Bank,Laboratory,Operation Theatre,Pharmacy"
+    }
+]
