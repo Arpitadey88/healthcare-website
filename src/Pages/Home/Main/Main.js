@@ -1,11 +1,11 @@
 import React from 'react';
 import { Card, Button } from 'react-bootstrap';
-import image from '../../../images/banner6.png';
+import image from '../../../images/banner7.png';
 
 const Main = () => {
     return (
         <div id="home">
-            <Card className="container-fluid rounded-2">
+            <Card className="rounded-2">
                 <Card.Img className="banner-img" src={image} alt="Card image" />
                 <Card.ImgOverlay>
                     <div className="container-fluid">
